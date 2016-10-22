@@ -10,7 +10,7 @@
 
 ## About ReduStudio
 
-[ReduStudio][homepage] is a web development agency based in Yogyakarta and East Borneo, Indonesia. We specialise in developing websites and web apps with Laravel, the world's #1 PHP Framework.
+[ReduStudio][homepage] is a web development agency based in Yogyakarta and East Borneo, Indonesia. We specialise in developing websites and web apps with Laravel, the most popular PHP Framework.
 
 ### Let's Start Project With Us
 
