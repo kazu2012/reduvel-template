@@ -19,8 +19,7 @@ Just Contact Us At:
 - Facebook: [ReduStudio's FB Page][fbpage]
 
 ## License
-[MIT][mitlink]
-Copyright (c) 2016 - forever ReduStudio
+The [MIT][mitlink] License (MIT). Please see [License File](LICENSE.md) for more information.
 
 
 [screenshot]: admin.png
