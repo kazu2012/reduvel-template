@@ -2,8 +2,6 @@
 
 ![Reduvel Template][screenshot]
 
-[DEMO][demolink]
-
 ## Composition
 - Bootstrap 4 Alpha 5
 - Fontawasome
@@ -25,7 +23,6 @@ The [MIT][mitlink] License (MIT). Please see [License File](LICENSE.md) for more
 
 
 [screenshot]: admin.png
-[demolink]: https://redustudio.github.io/reduvel-template/
 [homepage]: http://redustudio.com/
 [mailto]: mailto:redustudio@gmail.com
 [fbpage]: https://www.facebook.com/Redustudio/
